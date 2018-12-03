@@ -31,7 +31,7 @@ public class HelloWorlds {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-       System.out.println("你好，世界");
+       System.out.println("你好，世界，随便改一改");
 	}
 
 }
